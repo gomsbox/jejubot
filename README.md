@@ -1,1 +1,1 @@
-# jejubot
+# jejuboot
